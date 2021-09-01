@@ -30,9 +30,10 @@
     "Fahad Kassim (https://github.com/fadsel)",
     "Prayag Roy Choudhury (https://github.com/BeardyGod)",
     "Aryan Rawlani (https://github.com/aryanrawlani28)",
-    "Kristijan Jesenski (https://github.com/kjesenski)"
+    "Kristijan Jesenski (https://github.com/kjesenski)",
+    "Michal Karzel (https://github.com/Misioka)"
   ],
-  "version": "3.26.0",
+  "version": "3.27.0",
   "description": "Convert millisecond durations to English and many other languages.",
   "main": "humanize-duration.js",
   "homepage": "https://github.com/EvanHahn/HumanizeDuration.js",
