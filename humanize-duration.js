@@ -104,7 +104,8 @@
           }
         }
         return characters.join("");
-      }
+      },
+      rtl: true
     },
     bg: {
       y: function (c) {
@@ -1580,6 +1581,9 @@
       word = dictionaryValue;
     }
 
+    if (dictionary.rtl) {
+      return word + options.spacer + countStr;
+    }
     return countStr + options.spacer + word;
   }
 
